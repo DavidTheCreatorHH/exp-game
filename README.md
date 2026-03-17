@@ -9,3 +9,14 @@ Experience features a short list of features:
 	- chunks
 	- Basic player movement
 	- Trees (lol)
+	- Multiple built-in textures
+
+# Wth is this?
+This is a Minecraft-like game (It is NOT affiliated with Microsoft or Mojang!)
+that i made in a few months. You can move around and explore the infinite
+procedular landscape.
+
+# More information
+can be found in ABOUT.md
+
+(c) David Gold, 2026.
