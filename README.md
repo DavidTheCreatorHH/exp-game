@@ -13,17 +13,16 @@ directly.
 **HOW TO BUILD**
 Terminal:
 	Linux:
-	`$ cd <path>
+	```$ cd <path>
 	$ mkdir build
 	$ cd build
 	$ cmake ..
-	`
+	```
 	And after it creates the files, run:
-	`make`
+	``make``
 	
-
 Graphical:
-You can use CMake-GUI, tho i don't know how to configure it.
+You can use CMake-GUI, but i don't know how to configure it.
 Here is the CMake-GUI documentation: 
 https://cmake.org/cmake/help/latest/manual/cmake-gui.1.html
 
