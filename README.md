@@ -33,7 +33,7 @@ that i made in a few months. You can move around and explore the infinite
 procedular landscape.
 
 # Photo
-
+<img width="864" height="669" alt="lol" src="https://github.com/user-attachments/assets/570ac8b3-3998-4124-825d-a91ed176bba0" />
 
 # More information
 can be found in ABOUT.md
