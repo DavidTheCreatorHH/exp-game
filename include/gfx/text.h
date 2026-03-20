@@ -1,7 +1,7 @@
 #ifndef TEXT_H
 #define TEXT_H
 
-#include <GL/glew.h>
+#include "glew.h"
 #include <string.h>
 #include "textures.h"
 

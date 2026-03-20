@@ -1,4 +1,4 @@
-#include <GL/glew.h>
+#include "glew.h"
 #include "gfx/text.h"
 #include "gfx/textures.h"
 

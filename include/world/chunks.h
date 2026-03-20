@@ -1,12 +1,12 @@
 #ifndef CHUNKS_H
 #define CHUNKS_H
 
+#include "glew.h"
 #include "gfx/cube.h"
 #include "phys/collison.h"
 #include "config.h"
 #include <vector>
 #include <unordered_map>
-#include <GL/glew.h>
 
 enum btype : uint8_t {
 	_AIR,

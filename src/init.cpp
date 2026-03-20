@@ -1,4 +1,4 @@
-#include <GL/glew.h>
+#include "glew.h"
 #include "init.h"
 #include "gfx/cube.h"
 #include "gfx/cinf.h"

@@ -1,7 +1,7 @@
 #ifndef QUAD_H
 #define QUAD_H
 
-#include <GL/glew.h>
+#include "glew.h"
 #include "gfx/text.h"
 #include "gfx/textures.h"
 // This file handles text rendering and other things

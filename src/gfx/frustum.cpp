@@ -1,4 +1,4 @@
-#include <GL/glew.h>
+#include "glew.h"
 #include <cmath>
 #include "gfx/frustum.h"
 

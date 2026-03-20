@@ -1,7 +1,7 @@
 #ifndef FRUSTUM_H
 #define FRUSTUM_H
 
-#include <GL/glew.h>
+#include "glew.h"
 
 class CFrustum{
 	public:

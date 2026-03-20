@@ -1,8 +1,7 @@
 #define GLFW_INCLUDE_NONE	// I cannot describe the suffering this caused
 // OpenGL headers
-#include <GL/glew.h>
-#include <GL/glu.h>
-#include <GLFW/glfw3.h>
+#include "glew.h"
+#include "glfw3.h"
 
 // cxx headers
 #include <iostream>

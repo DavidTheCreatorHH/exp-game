@@ -1,4 +1,4 @@
-#include <GL/glew.h>
+#include "glew.h"
 #include "world/dnloop.h"
 
 // Brightness of the world

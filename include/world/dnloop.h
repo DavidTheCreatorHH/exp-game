@@ -1,6 +1,6 @@
 #ifndef DNLOOP_H
 #define DNLOOP_H
-#include <GL/glew.h>
+#include "glew.h"
 
 // Brightness of the world
 extern GLfloat wBrightness;
