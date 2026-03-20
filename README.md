@@ -3,20 +3,40 @@ This game was created in OpenGl 2.1 (due to my hardware limitations)
 and some OpenGL libraries like GLFW and GLEW.
 
 # Features
-Experience features a short list of features:
-	- Procedular terrain generation
-	- VBO and chunk batching
-	- chunks
-	- Basic player movement
-	- Trees (lol)
-	- Multiple built-in textures
+For a detailed feature list, controls, and changelog, see ABOUT.md [blocked].
 
-# Wth is this?
+# Building
+You can simply run make, but if you are not on Linux or
+don't wanna use some Windows-Linux thingy, you can use cmake
+directly.
+
+**HOW TO BUILD**
+Terminal:
+	Linux:
+	`$ cd <path>
+	$ mkdir build
+	$ cd build
+	$ cmake ..
+	`
+	And after it creates the files, run:
+	`make`
+	
+
+Graphical:
+You can use CMake-GUI, tho i don't know how to configure it.
+Here is the CMake-GUI documentation: 
+https://cmake.org/cmake/help/latest/manual/cmake-gui.1.html
+
+# What is this?
 This is a Minecraft-like game (It is NOT affiliated with Microsoft or Mojang!)
 that i made in a few months. You can move around and explore the infinite
 procedular landscape.
+
+# Photo
+
 
 # More information
 can be found in ABOUT.md
 
 (c) David Gold, 2026.
+
